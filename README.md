@@ -21,4 +21,6 @@ To get started developing right away:
 * [Semantic UI](https://semantic-ui.com/)
 
 
+## Deploying
 
+* [Netlify](https://635966adf30deb004eb4f8f3--marvelous-brigadeiros-fecda9.netlify.app/)
